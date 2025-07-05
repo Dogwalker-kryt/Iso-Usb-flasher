@@ -1,4 +1,4 @@
-# Iso-Usb-flasher
+# Iso-Usb-flasher (Linux)
 
 **Info**
 - this is a iso usb flasher for LINUX only written in C
